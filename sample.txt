@@ -2,10 +2,10 @@
 <html lang="ja">
     <head
         <meta charset="utf-8">
-        <title>Gitチュートリアル</title>
+        <title>Git</title>
     </head>
     <body>
-        <h1>はじめてバージョン管理</h1>
-        <p>Gitを使ってバージョン管理する。</p>
+        <p>これは最初のコミットです。</p>
+        <p>これは二番目のコミットです。</p>
     </body>
 </html> 
